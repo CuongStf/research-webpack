@@ -1,5 +1,7 @@
 # test-webpack
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/CuongStf/research-webpack.svg)](https://greenkeeper.io/)
+
 > A Vue.js project
 
 ## Build Setup
